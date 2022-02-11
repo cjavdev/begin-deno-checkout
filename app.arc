@@ -3,6 +3,8 @@ deno-hello
 
 @http
 get /
+get /checkout-session
+
 
 @tables
 data
